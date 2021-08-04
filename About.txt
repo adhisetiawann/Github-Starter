@@ -1,3 +1,6 @@
 Nama  : Yohanes Eka Adhi Setiawan
 Prodi : D3 SIA
 Univ  : UKSW
+
+#Edit from git local
+Usia  : 18 Tahun
