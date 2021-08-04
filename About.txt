@@ -4,3 +4,4 @@ Univ  : UKSW
 
 #Edit from git local
 Usia  : 18 Tahun
+Job   : Mahasiswa
